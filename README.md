@@ -1,1 +1,2 @@
-# Mvc and Database concepts
+# MvcPractice 
+Clone and use the Mvc and database projects
